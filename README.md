@@ -1,2 +1,2 @@
 # Software-Wireframe
-Trabalho da professora Melrulim sobre um software inovador 
+Trabalho para a matéria de lógica de programação do SENAI
